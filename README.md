@@ -17,7 +17,7 @@
 <img src= "assets/Perfil.png">
 <img src= "assets/CadastrarCaso.png">
 
-#### Back-end:
+#### Mobile:
 
 ![](assets/app.gif)
 
